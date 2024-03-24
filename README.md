@@ -67,7 +67,7 @@ I am eager to deepen my understanding of advanced CSS concepts, specifically foc
 ## Author
 
 - Website - [Joseph Jeremy]
-- Frontend Mentor - [@khome-j](
+- Frontend Mentor - [@khome-j]
 
 
 
