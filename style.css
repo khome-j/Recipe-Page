@@ -125,7 +125,10 @@ td:nth-child(even) {
 
 @media only screen and (max-width: 375px){
     /*For Mobile*/
-    .wrapper, img, .intro, .prep {
+    /* .wrapper, img, .intro, .prep {
+        width: 100%;
+    } */
+    body {
         width: 100%;
     }
 
