@@ -122,3 +122,18 @@ td:nth-child(even) {
     color: brown;
     font-weight: bold;
 }
+
+@media only screen and (max-width: 375px){
+    /*For Mobile*/
+    .wrapper, img, .intro, .prep {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width: 1440px){
+    /*For Desktops*/
+    .wrapper, img, .intro, .prep {
+        width: 100%;
+    }
+}
